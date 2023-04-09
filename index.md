@@ -1,6 +1,8 @@
 ## Projects in Data Science, Machine Learning and Computer Science
 
 ### Mars Spectrometry: Detect Evidence for Past Habitability 2022, hosted by DrivenData and NASA
+<img src="images/mars_spec.png?raw=true"/>
+
 I participated in the Mars Exploration Challenge, where participants were tasked to detect families of chemical compounds in mass spectrometry data. Despite the complexity of the task, I achieved 5th place by engineering hundreds of features from raw mass spectrometry data to train gradient boosting machine models. Additionally, I used data augmentation and transfer learning techniques to train large machine-learning models with less than 1000 training examples.
 
 
