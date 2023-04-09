@@ -1,5 +1,5 @@
 # Projects in Data Science, Machine Learning and Computer Science
-
+---
 ## OTTO – Multi-Objective Recommender System 2023, hosted by  Kaggle.
 
 <img src="images/kaggle-otto-sysrec.png?raw=true"/>
