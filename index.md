@@ -1,11 +1,12 @@
-## Portfolio
+## Projects in Data Scinece, Machine Learning and Algorithms 
 
----
+### Advent of Code
+I have taken on the challenge of solving daily coding problems from Advent of Code 2022.
+Every day, I approach a new problem and work to find the most efficient solution. On my GitHub, I provide a clear explanation, along with the time and space complexity and its implementation using Python3.
 
-### Category Name 1 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on github](https://github.com/camaron-ai/adventofcode-2022)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
