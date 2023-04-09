@@ -1,4 +1,4 @@
-## Projects in Data Science, Machine Learning and Algorithms 
+## Projects in Data Science, Machine Learning and Computer Science
 
 ### Advent of Code 2022
 I have taken on the challenge of solving daily coding problems from Advent of Code 2022.
