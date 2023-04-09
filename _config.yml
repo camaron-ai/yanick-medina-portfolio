@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   I’m an electronic engineer passionate about machine learning,  with 3+ years of experience developing data-driven based solutions. Proficient in predictive modeling, data processing, EDA, algorithms, data structures and scripting languages such as Python. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yanick-medina-03527a226/?locale=en_US">View my LinkedIn Profile</a> 
+  <a href="https://github.com/camaron-ai">View my Github</a>
+  <a href="https://medium.com/@yanickjmedina">Follow me on Medium</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
