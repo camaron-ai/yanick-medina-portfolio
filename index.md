@@ -1,6 +1,6 @@
-## Projects in Data Scinece, Machine Learning and Algorithms 
+## Projects in Data Science, Machine Learning and Algorithms 
 
-### Advent of Code
+### Advent of Code 2022
 I have taken on the challenge of solving daily coding problems from Advent of Code 2022.
 Every day, I approach a new problem and work to find the most efficient solution. On my GitHub, I provide a clear explanation, along with the time and space complexity and its implementation using Python3.
 
