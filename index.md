@@ -20,3 +20,23 @@ Every day, I approach a new problem and work to find the most efficient solution
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 [View code on github](https://github.com/camaron-ai/adventofcode-2022)
+
+
+### MAGNET: Model the Geomagnetic Field 2021, hosted by DrivenData and NASA.
+<img src="images/noaa-cover-img.png?raw=true"/>
+The competition challenged participants to forecast the Earth's magnetic field based on real-time solar wind data using satellite data from NOAA's Deep Space Climate Observatory and NASA's Advanced Composition Explorer.
+
+I achieved 3rd place by engineering solar wind time series into powerful features such as trend, frequency content statistics, moving average statistics, among others. To improve out-of-sample performance, I developed an ensemble approach that combined neural-network-based and tree-based models.
+
+My solution proved to be best solution during extreme solar periods.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
+<img src="images/performance-plot-magnet-extreme.png?raw=true"/>
+
+[Challange description](https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/)
+
+[Solution Overview](https://drivendata.co/blog/magnet-geomagnetic-field-winners/)
+
+[View code on github](https://github.com/camaron-ai/magnet_competition)
+
