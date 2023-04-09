@@ -1,4 +1,5 @@
 # Projects in Data Science, Machine Learning and Computer Science
+
 ## OTTO – Multi-Objective Recommender System 2023, hosted by  Kaggle.
 
 <img src="images/kaggle-otto-sysrec.png?raw=true"/>
@@ -15,7 +16,7 @@ My solution involved:
 
 [Challange description](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 
-
+---
 ## Mars Spectrometry: Detect Evidence for Past Habitability 2022, hosted by DrivenData and NASA
 <img src="images/mars_spec.png?raw=true"/>
 
@@ -28,7 +29,7 @@ I participated in the Mars Exploration Challenge, where participants were tasked
 
 [View code on github](https://github.com/camaron-ai/mars_spectrometry)
 
-
+---
 ## Advent of Code 2022
 I have taken on the challenge of solving daily coding problems from Advent of Code 2022.
 Every day, I approach a new problem and work to find the most efficient solution. On my GitHub, I provide a clear explanation, along with the time and space complexity and its implementation using Python3.
@@ -37,7 +38,7 @@ Every day, I approach a new problem and work to find the most efficient solution
 
 [View code on github](https://github.com/camaron-ai/adventofcode-2022)
 
-
+---
 ## MAGNET: Model the Geomagnetic Field 2021, hosted by DrivenData and NASA.
 <img src="images/noaa-cover-img.png?raw=true"/>
 The competition challenged participants to forecast the Earth's magnetic field based on real-time solar wind data using satellite data from NOAA's Deep Space Climate Observatory and NASA's Advanced Composition Explorer.
@@ -56,3 +57,4 @@ My solution proved to be best solution during extreme solar periods.
 
 [View code on github](https://github.com/camaron-ai/magnet_competition)
 
+---
